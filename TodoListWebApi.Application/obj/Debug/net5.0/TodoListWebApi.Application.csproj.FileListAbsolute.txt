@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Application.deps.json
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Application.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Application.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Domain.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Repository.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Repository.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\bin\Debug\net5.0\TodoListWebApi.Domain.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.csproj.CopyComplete
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\refint\TodoListWebApi.Application.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\TodoListWebApi.Application.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Application\obj\Debug\net5.0\ref\TodoListWebApi.Application.dll

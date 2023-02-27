@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TodoListWebApi.Domain/1.0.0": {
+        "runtime": {
+          "TodoListWebApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoListWebApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

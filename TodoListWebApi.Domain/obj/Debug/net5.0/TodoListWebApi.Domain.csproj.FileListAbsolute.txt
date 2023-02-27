@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\bin\Debug\net5.0\TodoListWebApi.Domain.deps.json
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\bin\Debug\net5.0\TodoListWebApi.Domain.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\bin\Debug\net5.0\TodoListWebApi.Domain.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\refint\TodoListWebApi.Domain.dll
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\TodoListWebApi.Domain.pdb
+C:\Users\MSI\Desktop\pfe\nxxum\TodoList-CQRS\TodoListWebApi\TodoListWebApi.Domain\obj\Debug\net5.0\ref\TodoListWebApi.Domain.dll
